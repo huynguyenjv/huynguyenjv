@@ -32,6 +32,8 @@
 <a href="https://dev.to/huynguyenjv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="huynguyen" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/huynguyen1885/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/huynguyen1885/" height="30" width="40" /></a>
 <a href="https://instagram.com/nmbh.251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nmbh.251" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/huynguyen251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg
+" alt="nmbh.251" height="30" width="40" /></a>
 </p>
 
 
