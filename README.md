@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Huynguyen</h1>
 <h3 align="center">A passionate Backend developer from AVG Team Viet Nam</h3>
 
-- 🔭 I’m currently working on [AVG Team](https://github.com/AVG-Team)
+- 🔭 I’m currently working on [AVG Team](https://github.com/AVG-Team) [ Leader Team ] and [AGEST](https://www.agest.vn/vi/) [Software Engneer In Test]
 
-- 🌱 I’m currently learning **Spring Boot, React, ASP dotnet,...**
+- 🌱 I’m currently learning **Spring Boot, React, Python, Testing,...**
 
 - 👯 I’m looking to collaborate on [AVG Team](https://github.com/AVG-Team)
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/huynguyenjv](https://github.com/huynguyenjv)
 
-- 💬 Ask me about **Java, C#**
+- 💬 Ask me about **Java, C#, Python, Testing**
 
 - 📫 How to reach me **huynguyen.job2003@gmail.com**
 
